@@ -104,7 +104,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TRAFALGARLAW3&theme=midnight-purple&hide_border=true" />
 
 </div>
 
