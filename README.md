@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/0b7bWQ6v5-0AAAAC/lelouch-code-geass.gif" width="100%">
+<img src="https://i.pinimg.com/originals/22/f4/e1/22f4e155043a7e8485c5c7a8a71c680a.gif" width="60%">
 
 # 𝐀𝐥𝐥 𝐇𝐚𝐢𝐥 𝐋𝐞𝐥𝐨𝐮𝐜𝐡
 
@@ -140,23 +140,3 @@ Currently Learning:
 ## ALL HAIL LELOUCH
 
 </div>
-
----
-
-# ⚡ Customization Guide
-
-Replace:
-
-```bash
-SEU_USUARIO
-```
-
-with your GitHub username.
-
-Example:
-
-```bash
-felipe-dev
-```
-
-Then the stats and streak will work automatically.
