@@ -4,7 +4,7 @@
 
 # 𝐀𝐥𝐥 𝐇𝐚𝐢𝐥 𝐋𝐞𝐥𝐨𝐮𝐜𝐡
 
-### Computer Science Student • Backend Developer • AI Enthusiast
+### Computer Science Student • FullStack Developer • AI Enthusiast
 
 > *“The world cannot be changed with pretty words alone.”*
 
